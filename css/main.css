@@ -1,0 +1,270 @@
+ section{
+ 	background-color:#EFDCC9;
+ 	/*background-color:#EFDCC9;*/
+
+ }
+ .black{
+ 	background-color:#999CA6;
+		/*background-color:#999CA6;
+*/
+ 	height: 550px;
+
+ }
+.imaGen{
+	border: 2px white;
+	height: 30px;
+	width: 80%;
+	border-radius:20px solid black;
+}
+.yo{
+	
+	margin-top:10%;
+ width: 100px;
+     height: 100px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #5cb85c;
+
+}
+.latters1{
+	font-family: 'Amatic SC', cursive;
+	color: #F4DFCD !important;
+	font-size: 250%;
+}
+.latters{
+	font-family: 'Amatic SC', cursive;
+	color:white !important;
+	font-size: 750% !important;
+}
+.tama{
+ width: 50%;
+ height: 200px;
+border: #F4DFCD 10px solid;
+border-radius:300%;
+}
+.transRosa{
+background: rgb(, 0, 0, 0.5)
+/* max-width:300%;
+height: 300px;*/
+
+}
+/* .video{
+ 	margin-top: -10%;
+   margin-left:25%;  
+	width: 150%;
+  height:50px;
+  min-width: 70%;
+ min-height: 50%; 
+ /* transform: translateX(0%)translateY(-17%);*/
+
+
+
+/* .fondo{
+	
+	height:600px;
+
+ }*/
+ .fondo1{
+	background-image: url(../img/fondo20.jpg);
+ 	background-size: 100% 100%;
+ 	width: 100%;
+ 	background-repeat: no-repeat;
+ 	height:550px;	
+	
+
+ }
+
+ .titulo{
+ background: rgba(219,130,151,.5); 
+ background-size: 100% 100%;
+ margin-top:-5%;
+ margin-left:-4%;
+ width: 108%;
+ 	background-repeat: no-repeat;
+ 	height:550px;
+
+ }
+ h1{
+ 	color: black !important;
+ 	font-size: 500% !important;
+ }
+ .logo{
+ 	width:20% !important;
+ 	height: 100px;
+
+ }
+ .slider img{
+ 	width:40%;
+ }
+ .slider{
+ 	width: 95%
+ 	margin:auto;
+ 	overflow: hidden !important;
+ }
+ .slider ul{
+ 	display: flex !important;
+ 	padding: 0%;
+ 	width: 400%;
+ 	animation: cambio 20s infinite alternate !important;
+
+ }
+ .slider li{
+ 	list-style: none;
+ 	width: 100%;
+ }
+ @keyframes cambio{
+ 	0% { margin-left: 0; }
+ 	20% { margin-left: 0; }
+	
+	20% { margin-left: -100%; }
+ 	50% { margin-left:-100%; }
+
+
+ 	50% { margin-left: -200%; }
+ 	60% { margin-left:-200%; }
+
+ 	65% { margin-left: -300%; }
+ 	100% { margin-left:-300%; }
+
+
+ }
+ .color1{
+ 	background-color: #ACD5D4;
+ 	width:100%;
+ 	height: 50%;
+ 	border:3px solid white;
+ 	 border-radius: 20%  !important;
+ }
+ .color2{
+ 	background-color: #D993A6;
+ 	width:100%;
+ 	height: 50%;
+ 	border:3px solid white;
+ 	 border-radius: 20%  !important;
+ }
+.color3{
+	margin-top: 4%;
+ 	background-color: #B46A5A;
+ 	max-width:100%;
+
+ 	height: 50%;
+ 	border:3px solid white;
+ 	 border-radius: 20%  !important;
+ }
+.color4{
+ 	margin-top: 4%;
+ 	background-color: #FCB8A6;
+ 	max-width:100%;
+ 	height: 50%;
+ 	border:3px solid white;
+ 	 border-radius: 20%  !important;
+
+
+ }
+ .compu{
+ 	width: 80%;
+ 	height:200px !important;
+ 	margin: auto;
+ 	margin-top: 10%;
+ 	border:5% solid #C6B09B;
+ 	margin-bottom: 10%;
+
+ }
+ .fondoMorado{
+ 	background-color: #B079A5;
+
+
+ }
+ul{
+    text-align:center;
+}
+li{
+    display:inline-block !important ;
+} .fa{
+ 	width: 4% !important;
+ 	margin-top: 2%;
+ }
+ .git{
+ 	width:22%;
+ }
+/* .mod{
+
+ 	margin: 0px;
+ 	padding: 0px;
+ 	background: rgba(255, 255, 100, .3);
+ 	position: relative;
+ }
+ #mostra-modal{
+ 	background: lighten(blue, 30%);
+ 	width: 50px;
+ 	height: 50px;
+ 	display: block;
+ 	text-decoration: none;
+ 	position: relative;
+ 	border-radius: 50%;
+ }
+ span{
+ 	color:#fff;
+ 	position: absolute;
+ 	top: 50%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
+ 	font-size: 40px;
+ 	font-weight: 600;
+ }
+ #modal{
+ 	position: absolute;
+ 	background: rgba(0, 0, ,0 .25);
+ 	top: 0;
+ 	width: 100%;
+ 	height: 100%;
+ }*/
+/*#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #B079A5 !important;
+    border: solid 1px #B079A5;
+}
+
+#panel {
+    padding:20%;
+    display: none;
+    background-color: #B079A5;
+
+*/
+}
+
+
+
+
+/* img{*/
+/*	-webkit-filter: invert(50%);
+filter: invert(80%);*/
+
+
+ /*	width: 100%;
+ 	height: 50%;
+ }*/
+ .principal{
+ 	width: 100%;
+ 	height: 300px;
+ }
+ .fondo2{
+ background-color:black;
+ }
+ .fondoNegro{
+ 	height: 200%;
+ 	width: 100%;
+ }
+ video{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+}
